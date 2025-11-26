@@ -1,6 +1,6 @@
 # Recommendations
 
-Preprocessing
+## Preprocessing
 The function preprocess takes a matrix A and an integer min_count as parameters. It removes from the matrix all clients (rows) who have given fewer than min_count reviews.
 
 The steps for the preprocess function are as follows:
